@@ -3,7 +3,9 @@
 ## 😄 Pronouns: He/Him
 
 :closed_book: University of the Philippines Diliman - **BS Physics**
+
 :robot: Intern at NYHA Robotics *AI and Automation Skillset* 
+
 :thumbsup: Open for collaborative and learning projects !
 
 ## 🌐 Social Links

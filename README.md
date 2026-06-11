@@ -15,7 +15,7 @@
 # 🧠 Operating Systems
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)] [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)]
 
-# GOATED AI Workspace !
+#:point_right: GOATED AI Workspace !
 ![GitHub Repo stars](https://img.shields.io/github/stars/pewdiepie-archdaemon/odysseus?style=for-the-badge&color=gold)
 
 <!--

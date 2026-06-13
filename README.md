@@ -18,7 +18,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
 # 👉 GOATED AI Workspace !
-![GitHub Repo stars](https://img.shields.io/github/stars/pewdiepie-archdaemon/odysseus?style=for-the-badge&color=gold)
+[![GitHub Repo stars](https://img.shields.io/github/stars/pewdiepie-archdaemon/odysseus?style=for-the-badge&color=gold)](https://github.com/pewdiepie-archdaemon/odysseus?tab=contributing-ov-file)
 
 <!--
 **Rellebruhh/Rellebruhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
